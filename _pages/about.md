@@ -6,7 +6,7 @@ subtitle: yyangh [at] cs [dot] washington [dot] edu
 
 profile:
   align: right
-  image: profile_pic.jpg
+  image: Profile_picture_square.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>185 E Stevens Way NE</p>
