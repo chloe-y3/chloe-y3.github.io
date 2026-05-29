@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: yyangh [at] cs [dot] washington [dot] edu
 
