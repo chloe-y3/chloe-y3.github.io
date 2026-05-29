@@ -9,8 +9,6 @@ profile:
   image: Profile_picture_square.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    # <p>185 E Stevens Way NE</p>
-    # <p>Seattle, WA 98105</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
