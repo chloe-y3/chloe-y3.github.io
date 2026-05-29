@@ -26,6 +26,6 @@ latest_posts:
 
 I am a PhD student at the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington, advised by Professor [Jamie Morgenstern](https://jamiemorgenstern.com/).
 
-My research interest was in the design and analysis of algorithms, particularly algorithmic game theory (EconCS). Along the way, I kept running into the gap between an algorithm's theoretical guarantees and its actual performance once deployed. That gap drives my recent research interest in principled algorithm design for efficient ML Systems.
+My research interest was in the design and analysis of algorithms, particularly algorithmic game theory (EconCS). Along the way, I kept running into the gap between an algorithm's theoretical guarantees and its actual performance once deployed. That gap drives my recent research interest in algorithm design for efficient ML Systems.
 
 Before coming to UW, I received my B.S. from Shanghai Jiao Tong University, advised by Professor [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
