@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*T-tamer* has been accepted to ICLR 2026!
-
+[*T-TAMER*](https://openreview.net/pdf?id=JFY9MZtWTu) has been accepted to ICLR 2026!
