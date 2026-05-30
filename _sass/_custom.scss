@@ -1,0 +1,6 @@
+/* Override Jekyll Scholar bibliography author formatting */
+.bibliography em {
+  font-weight: bold;
+  font-style: normal;
+  text-decoration: none !important;
+}
