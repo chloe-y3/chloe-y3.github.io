@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Yuanyuan
 middle_name: (Chloe)
 last_name: Yang
-contact_note: # Chloe: Commented out
+contact_note: The first principle is that you must not fool yourself. # Chloe: Commented out
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD student at the Paul G. Allen School, University of Washington, working on efficient ML systems.
 footer_text: >
