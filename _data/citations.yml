@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-26'
 papers:
   VbO3nKwAAAAJ:UeHWp8X0CEIC:
-    citations: 45
+    citations: 46
     title: 'Sketching meets differential privacy: fast algorithm for dynamic kronecker projection maintenance'
     year: '2023'
   VbO3nKwAAAAJ:Y0pCki6q_DkC:
@@ -16,4 +16,8 @@ papers:
   VbO3nKwAAAAJ:eQOLeE2rZwMC:
     citations: 0
     title: 'T-TAMER: Provably Taming Trade-offs in ML Serving'
+    year: '2026'
+  VbO3nKwAAAAJ:ufrVoPGSRksC:
+    citations: 1
+    title: Beyond the PPAD hardness of Auto-bidding Auctions
     year: '2026'
